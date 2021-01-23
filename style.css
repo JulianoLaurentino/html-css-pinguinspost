@@ -45,12 +45,20 @@ a {
 .post_content {
     margin: 0;
     margin-bottom: 15px;
-    text-align: left;
+    text-align: justify;
+    text-indent: 50px;
 }
 
-.post_image {
+.post_image1 {
     margin-bottom: 15px;
     width: 100%
+}
+
+.post_image2 {
+    margin-bottom: 15px;
+    width: 500px;    
+    height: 600px;
+    width: 100%;
 }
 
 .contacts_list {
